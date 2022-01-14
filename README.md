@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darije
-- 👀 I’m interested in ...
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to work as umployee or worker on REact projects.
 - 📫 How to reach me -> darije.milak@gmail.com
